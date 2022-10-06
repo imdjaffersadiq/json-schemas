@@ -1,0 +1,10 @@
+   {
+    "title": "Success",
+    "type": "object",
+    "properties": {
+        "referenceNumber": {
+            "type": "string",
+            "example": "123456"
+        }
+    }
+}
