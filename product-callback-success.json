@@ -3,7 +3,7 @@
     "type": "object",
     "properties": {
         "referenceNumber": {
-            "type": "string1",
+            "type": "string",
             "example": "123456"
         }
     }
