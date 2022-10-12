@@ -7,7 +7,7 @@
          "example":"123456"
       },
       "nativeDescription":{
-         "format":"nullable",
+         "example":"nullable",
          "type":"string"
       }
    }
